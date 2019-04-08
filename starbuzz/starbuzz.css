@@ -1,3 +1,13 @@
+
+
+#allcontent{
+  width: 800px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #675c47;
+  margin: 0px,auto;
+}
+
 body { 
   background-color: #b5a789;
   font-family:      Georgia, "Times New Roman", Times, serif;
@@ -24,7 +34,7 @@ body {
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 470px;
+  margin:           0px 10px 10px 10px;
   width: 280px;
   float: right;
   
